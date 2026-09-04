@@ -13,6 +13,9 @@ This is version two of my plasma speaker project (https://github.com/Firestorm10
 
 <img width="1603" height="916" alt="Screenshot 2026-09-04 at 12 08 57 AM" src="https://github.com/user-attachments/assets/95d753e1-4ed4-49ba-aca6-1788cecc0437" />
 <img width="1171" height="899" alt="Screenshot 2026-09-04 at 12 09 14 AM" src="https://github.com/user-attachments/assets/01cf5415-acdb-4c3f-9154-17c0ddb8bf16" />
+
+
+
 | Item                     |    Price | Link                                                                                                     |
 | ------------------------ | -------: | -------------------------------------------------------------------------------------------------------- |
 | PCB + Assembly           |     $170 | JLCPCB                                                                                                   |
